@@ -11,7 +11,3 @@ BetterDiscord is a client modification for Discord. This allows you to add plugi
 # Download
 
 clone this repository with `git clone https://github.com/lissaferreira/dalton-discord`, and move `dalton.css` to your Better Discord themes folder.
-
-# Screenshot
-
-![Dalton Screenshot](assets/screenshot-1.png)
